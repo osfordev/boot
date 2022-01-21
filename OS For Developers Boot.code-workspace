@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "binary"
+		},
+		{
+			"path": "builder"
+		},
+		{
+			"name": "workspace",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
